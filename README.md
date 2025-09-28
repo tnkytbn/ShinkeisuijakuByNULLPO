@@ -70,12 +70,12 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 
 制作:チームぬるぽ
 
-トランプカード(裏面、クラブ(数字)、ダイア(数字))
+トランプカード(裏面、クラブ(数字)、ダイア(数字))<br>
 [いらすとや](https://www.irasutoya.com/2017/05/card.html)
 
-効果音(カードシャッフル2,カードめくり1)
+効果音(カードシャッフル2,カードめくり1)<br>
 [Springin](https://www.springin.org/sound-stock/subcategory/card/)
 
-背景(AI)
+背景(AI)<br>
 [Canva](https://www.canva.com/ja_jp/)
 
