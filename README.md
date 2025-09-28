@@ -43,10 +43,19 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 <img width="360" height="683" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" /><br><br>
 
 ### 対人戦
-<img width="360" height="685" alt="神経衰弱対人戦" src="https://github.com/user-attachments/assets/16658560-4b5d-4ffb-9da1-275741d1eb33" /><br><br>
+
+
+### 対人戦結果
+<img width="360" height="715" alt="対人戦結果" src="https://github.com/user-attachments/assets/c396ea9d-3fa7-41cd-a086-634c916f3ed4" /><br><br>
+
 
 ### タイムアタック
-<img width="360" height="682" alt="神経衰弱タイムアタック" src="https://github.com/user-attachments/assets/c3ac7cd8-4b73-44c9-8a33-c13fbff768ff" /><br><br>
+
+
+### タイムアタック結果
+<img width="360" height="682" alt="タイムアタック結果" src="https://github.com/user-attachments/assets/f4ce7ae2-4792-473c-93b7-be6019541cdd" /><br><br>
+
+
 
 ### 最速記録画面
 <img width="360" height="697" alt="神経衰弱最速記録" src="https://github.com/user-attachments/assets/743e6ccd-ec14-4d8c-ada8-d69451a928da" /><br><br>
@@ -54,8 +63,9 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 ### 設定
 <img width="360" height="679" alt="神経衰弱設定" src="https://github.com/user-attachments/assets/613f1ae7-188a-4497-9fc7-3c8a4f1ea41c" /><br><br>
 
-### EasyMode
-<img width="360" height="711" alt="神経衰弱イージーモード" src="https://github.com/user-attachments/assets/09480298-7f7f-4230-a612-e936769ac10d" /><br><br>
+### EasyMode+中断
+<img width="360" height="711" alt="イージーモードで中断" src="https://github.com/user-attachments/assets/81662094-a954-48fc-a7a4-00c23186685b" /><br><br>
+
 
 ## クレジット
 開発環境:AndroidStudio
