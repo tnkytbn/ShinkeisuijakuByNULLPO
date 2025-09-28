@@ -43,19 +43,17 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 <img width="360" height="683" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" /><br><br>
 
 ### 対人戦
-
+<img width="360" height="683" alt="タイムアタック画面" src="https://github.com/user-attachments/assets/461f4d3f-09f2-4491-adb6-fcd0c9e3616b" /><br><br>
 
 ### 対人戦結果
-<img width="360" height="715" alt="対人戦結果" src="https://github.com/user-attachments/assets/c396ea9d-3fa7-41cd-a086-634c916f3ed4" /><br><br>
-
+<img width="360" height="715" alt="対人戦画面" src="https://github.com/user-attachments/assets/602ec30c-4c0b-416a-8129-30a7ecca4f9e" /><br><br>
 
 ### タイムアタック
 
+<img width="360" height="683" alt="タイムアタック画面" src="https://github.com/user-attachments/assets/461f4d3f-09f2-4491-adb6-fcd0c9e3616b" /><br><br>
 
 ### タイムアタック結果
 <img width="360" height="682" alt="タイムアタック結果" src="https://github.com/user-attachments/assets/f4ce7ae2-4792-473c-93b7-be6019541cdd" /><br><br>
-
-
 
 ### 最速記録画面
 <img width="360" height="697" alt="神経衰弱最速記録" src="https://github.com/user-attachments/assets/743e6ccd-ec14-4d8c-ada8-d69451a928da" /><br><br>
