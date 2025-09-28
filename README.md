@@ -6,6 +6,7 @@ Pixel6aで動作確認テストをしました。
 トランプの配置は4×5の20枚
 クラブのA、2～10
 クローバーのA、2～10
+背景にはAIが使われています。
 
 ## 機能の紹介
 ### 設定画面
@@ -52,6 +53,6 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 効果音
 [Springin](https://www.springin.org/sound-stock/subcategory/card/)
 
-背景
+背景(AI)
 [Canva](https://www.canva.com/ja_jp/)
 
