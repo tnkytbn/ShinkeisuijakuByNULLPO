@@ -40,7 +40,7 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 
 ## プレイ画像
 ### タイトル
-<img width="1080" height="2050" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" width=120/>
+<img width="1080" height="2050" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" width=60/>
 
 ### 対人戦
 <img width="1080" height="2057" alt="神経衰弱対人戦" src="https://github.com/user-attachments/assets/16658560-4b5d-4ffb-9da1-275741d1eb33" width=20/>
