@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">神経衰弱</string>
+    <string name="String_lim">制限時間</string>
+    <string name="String_BOOKOFF">ブックオフなのに本ねぇじゃん。フィクションは本だけにしとけよ。</string>
+    <string name="String_PlayNum">プレイ人数</string>
+    <string name="String_Back">戻る</string>
+    <string name="String_save">保存</string>
+    <string name="String_Easy_Mode">EasyMode</string>
+    <string name="String_turn">プレイヤー1のターン</string>
+    <string name="String_SettingTime">05分00秒</string>
+    <string name="String_LeftTime">残り:05分00秒</string>
+    <string name="String_TempTime">00分00秒</string>
+    <string name="String_StartTime">タイム:00分00秒</string>
+    <string name="String_points">カード:0枚</string>
+    <string name="String_Reset">リセット</string>
+    <string name="String_No_One">1位:---[--枚]</string>
+    <string name="String_No_Two">2位:---[--枚]</string>
+    <string name="String_No_Three">3位:---[--枚]</string>
+    <string name="String_No_Four">4位:---[--枚]</string>
+    <string name="String_No_Five">5位:---[--枚]</string>
+    <string name="String_ClearTime">クリアタイム</string>
+    <string name="String_BestTime">ベストタイム</string>
+    <string name="String_Time_Best_One">1位:--分--秒</string>
+    <string name="String_Time_Best_Two">2位:--分--秒</string>
+    <string name="String_Time_Best_Three">3位:--分--秒</string>
+    <string name="String_Time_Best_Four">4位:--分--秒</string>
+    <string name="String_Time_Best_Five">5位:--分--秒</string>
+    <string name="easyMode">EASY_MODE</string>
+    <string name="Normal_Mode">NormalMode</string>
+    <string name="String_Chenge">モード切り替え</string>
+    <string name="String_PlayerRank">プレイヤー順位</string>
+    <string name="String_Title">タイトル</string>
+</resources>

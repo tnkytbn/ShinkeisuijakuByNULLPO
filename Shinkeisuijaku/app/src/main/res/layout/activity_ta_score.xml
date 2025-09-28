@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TAScoreActivity"
+    >
+
+    <Button
+        android:id="@+id/backTitle3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/String_Title"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/TimeView"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="31dp"
+        android:layout_marginTop="21dp"
+        android:layout_marginEnd="31dp"
+        android:text="@string/String_ClearTime"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/backTitle3" />
+
+    <TextView
+        android:id="@+id/ClearTimeView"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_TempTime"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/TimeView" />
+
+    <TextView
+        android:id="@+id/bestTimeView"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_BestTime"
+        android:textAlignment="center"
+        android:textSize="34sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ClearTimeView" />
+
+
+    <TextView
+        android:id="@+id/Rank1View"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_Time_Best_One"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bestTimeView" />
+
+    <TextView
+        android:id="@+id/Rank2View"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_Time_Best_Two"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Rank1View" />
+
+    <TextView
+        android:id="@+id/Rank3View"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_Time_Best_Three"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Rank2View" />
+
+    <TextView
+        android:id="@+id/Rank4View"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_Time_Best_Four"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Rank3View" />
+
+    <TextView
+        android:id="@+id/Rank5View"
+        android:layout_width="0dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="50dp"
+        android:text="@string/String_Time_Best_Five"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/Rank4View" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
