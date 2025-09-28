@@ -5,7 +5,7 @@
 Pixel6aで動作確認テストをしました。 
 トランプの配置は4×5の20枚
 クラブのA、2～10
-クローバーのA、2～10
+ダイアのA、2～10
 背景にはAIが使われています。
 
 ## 機能の紹介
@@ -70,10 +70,10 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 
 制作:チームぬるぽ
 
-トランプカード(裏表ともに)
+トランプカード(裏面、クラブ(数字)、ダイア(数字))
 [いらすとや](https://www.irasutoya.com/2017/05/card.html)
 
-効果音
+効果音(カードシャッフル2,カードめくり1)
 [Springin](https://www.springin.org/sound-stock/subcategory/card/)
 
 背景(AI)
