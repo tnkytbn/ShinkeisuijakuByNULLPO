@@ -43,13 +43,12 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 <img width="360" height="683" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" /><br><br>
 
 ### 対人戦
-<img width="360" height="683" alt="タイムアタック画面" src="https://github.com/user-attachments/assets/461f4d3f-09f2-4491-adb6-fcd0c9e3616b" /><br><br>
+<img width="360" height="683" alt="タイムアタック画面" src="https://github.com/user-attachments/assets/602ec30c-4c0b-416a-8129-30a7ecca4f9e" /><br><br>
 
 ### 対人戦結果
-<img width="360" height="715" alt="対人戦画面" src="https://github.com/user-attachments/assets/602ec30c-4c0b-416a-8129-30a7ecca4f9e" /><br><br>
+<img width="360" height="715" alt="対人戦結果" src="https://github.com/user-attachments/assets/16f02d8c-5f07-4f9c-8a8a-e951b6270d54" /><br><br>
 
 ### タイムアタック
-
 <img width="360" height="683" alt="タイムアタック画面" src="https://github.com/user-attachments/assets/461f4d3f-09f2-4491-adb6-fcd0c9e3616b" /><br><br>
 
 ### タイムアタック結果
