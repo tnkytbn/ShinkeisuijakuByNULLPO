@@ -40,22 +40,22 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。
 
 ## プレイ画像
 ### タイトル
-<img width="1080" height="2050" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" width="60px" />
+<img width="540" height="1025" alt="神経衰弱タイトル" src="https://github.com/user-attachments/assets/87d4295b-f25e-4b0d-9e31-91959e4c04e1" />
 
 ### 対人戦
-<img width="1080" height="2057" alt="神経衰弱対人戦" src="https://github.com/user-attachments/assets/16658560-4b5d-4ffb-9da1-275741d1eb33" width="60px" />
+<img width="540" height="1028" alt="神経衰弱対人戦" src="https://github.com/user-attachments/assets/16658560-4b5d-4ffb-9da1-275741d1eb33" />
 
 ### タイムアタック
-<img width="1080" height="2065" alt="神経衰弱タイムアタック" src="https://github.com/user-attachments/assets/c3ac7cd8-4b73-44c9-8a33-c13fbff768ff" width="60px" />
+<img width="540" height="1033" alt="神経衰弱タイムアタック" src="https://github.com/user-attachments/assets/c3ac7cd8-4b73-44c9-8a33-c13fbff768ff" />
 
 ### 最速記録画面
-<img width="1080" height="2092" alt="神経衰弱最速記録" src="https://github.com/user-attachments/assets/743e6ccd-ec14-4d8c-ada8-d69451a928da" width="60px" />
+<img width="540" height="1046" alt="神経衰弱最速記録" src="https://github.com/user-attachments/assets/743e6ccd-ec14-4d8c-ada8-d69451a928da" />
 
 ### 設定
-<img width="1080" height="2092" alt="神経衰弱最速記録" src="https://github.com/user-attachments/assets/665c35cf-fb3a-488f-87e3-1aa9c3ce12c5" width="60px" />
+<img width="540" height="1046" alt="神経衰弱最速記録" src="https://github.com/user-attachments/assets/665c35cf-fb3a-488f-87e3-1aa9c3ce12c5" />
 
 ### EasyMode
-<img width="1080" height="2134" alt="神経衰弱イージーモード" src="https://github.com/user-attachments/assets/09480298-7f7f-4230-a612-e936769ac10d" width="60px" />
+<img width="540" height="1067" alt="神経衰弱イージーモード" src="https://github.com/user-attachments/assets/09480298-7f7f-4230-a612-e936769ac10d" />
 
 ## クレジット
 開発環境:AndroidStudio
