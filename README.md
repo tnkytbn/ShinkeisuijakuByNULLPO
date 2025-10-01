@@ -74,7 +74,7 @@ NormalMode(通常モード)とEasyModeの記録を切り替えられます。<br
 [いらすとや](https://www.irasutoya.com/2017/05/card.html)
 
 効果音(カードシャッフル2,カードめくり1)<br>
-[Springin](https://www.springin.org/sound-stock/subcategory/card/)
+[Springin’ Sound Stock](https://www.springin.org/sound-stock/subcategory/card/)
 
 背景(AI)<br>
 [Canva](https://www.canva.com/ja_jp/)
