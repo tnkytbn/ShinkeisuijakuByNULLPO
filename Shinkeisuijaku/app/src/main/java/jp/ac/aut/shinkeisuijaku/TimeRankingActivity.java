@@ -79,13 +79,11 @@ public class TimeRankingActivity extends AppCompatActivity {
         }
         rankLen=bestTime.size();
         Collections.sort(bestTime);
-        //表示をリセット
-        if(rankLen<5) {
-            for (int i = 0; i < lowLimitRank; i++) {
-                int rankID = getResources().getIdentifier("Rank" + String.valueOf(i + 1) + "View", "id", getPackageName());
-                TextView textViewRank = (TextView) findViewById(rankID);
-                textViewRank.setText(String.format("%1$1d位:--分--秒", i + 1));
-            }
+        //rankLen番目より前は後で書き換えられるのでrankLenより後ろの要素のテキストビューをリセット
+        for (int i = rankLen; i < lowLimitRank; i++) {
+            int rankID = getResources().getIdentifier("Rank" + String.valueOf(i + 1) + "View", "id", getPackageName());
+            TextView textViewRank = (TextView) findViewById(rankID);
+            textViewRank.setText(String.format("%1$1d位:--分--秒", i + 1));
         }
 
         //テキストビューに表示
